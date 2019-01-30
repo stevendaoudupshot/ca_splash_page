@@ -1,1 +1,1 @@
-# ca_splash_page
+# This Repo Consists Only of a Temporary Splash Page for CA Ventures Senior Living
